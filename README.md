@@ -22,3 +22,16 @@ This project is an intelligent chatbot that represents **Tushar Garg** on his we
 
 ---
 
+## 🛠️ Tech Stack
+
+| Tech           | Purpose                         |
+|----------------|---------------------------------|
+| Python         | Core programming language       |
+| Gradio         | Chat UI frontend                |
+| Google GenAI   | Gemini model integration        |
+| OpenAI Client  | API compatibility layer         |
+| Pypdf          | Parsing PDF resume              |
+| Pushover API   | Real-time notification backend  |
+| dotenv         | API key and config management   |
+
+---
