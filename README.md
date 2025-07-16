@@ -35,3 +35,5 @@ This project is an intelligent chatbot that represents **Tushar Garg** on his we
 | dotenv         | API key and config management   |
 
 ---
+#  Demo
+<img width="1707" height="653" alt="image" src="https://github.com/user-attachments/assets/0828b57b-69de-41a0-88e6-b345b8bdb5bf" />
