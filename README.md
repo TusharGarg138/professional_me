@@ -21,6 +21,14 @@ This project is an intelligent chatbot that represents **Tushar Garg** on his we
 - 🌐 Deploys easily with **Gradio’s Chat Interface**
 
 ---
+## 🌍 Live Demo
+
+> ✅ **Deployed on Hugging Face Spaces:**  
+🔗 https://huggingface.co/spaces/clown6910/Professional_chatbot  
+(Replace this with your actual space link)
+
+
+---
 
 ## 🛠️ Tech Stack
 
