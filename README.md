@@ -25,7 +25,6 @@ This project is an intelligent chatbot that represents **Tushar Garg** on his we
 
 > ✅ **Deployed on Hugging Face Spaces:**  
 🔗 https://huggingface.co/spaces/clown6910/Professional_chatbot  
-(Replace this with your actual space link)
 
 
 ---
