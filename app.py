@@ -6,3 +6,5 @@ import requests
 from pypdf import PdfReader
 import gradio as gr
 import google.generativeai as genai
+
+load_dotenv(override=True)
